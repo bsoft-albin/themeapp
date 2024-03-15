@@ -1,0 +1,14 @@
+
+
+.slick-dots{
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+
+.img-Size{
+  width: 250px;
+  height: 250px;
+  border-radius: 15px;
+  margin-left: 35rem;
+}
